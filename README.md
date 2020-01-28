@@ -18,7 +18,7 @@ Laravel ZKteo  open-sourced software licensed under the [MIT license](http://ope
 ## Getting Started
 To get started add the following package to your `composer.json` file using this command.
 
-    composer require mdsami/larapaytm
+    composer require mdsami/LaraZkteo
 
 ## Configuring
 **Note: For Laravel 5.5 and above auto-discovery takes care of below configuration.**
